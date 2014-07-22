@@ -2,10 +2,10 @@ hostyourcontest
 ===============
 <p>[toc]</p>
 <p> </p>
-<p>Are you a mastermind who's bored of winning our monthly algorithm contests? Do you want to get some experience on the other side of the equation? CodeChef is on the lookout for advanced programmers to create and/or test problems and/or write good editorials in simple english for our long contests and our Cook-Offs. If you're interested in contributing, read the rules below and <a href="#getStarted" target="_self">apply</a> to become an official CodeChef Problem <a href="#Setting">Setter</a> or <a href="#Testing">Tester</a> or <a href="#editorials">Editorialist</a>.</p>
+Are you a mastermind who's bored of winning our monthly algorithm contests? Do you want to get some experience on the other side of the equation? CodeChef is on the lookout for advanced programmers to create and/or test problems and/or write good editorials in simple english for our long contests and our Cook-Offs. If you're interested in contributing, read the rules below and <a href="#getStarted" target="_self">apply</a> to become an official CodeChef Problem <a href="#Setting">Setter</a> or <a href="#Testing">Tester</a> or <a href="#editorials">Editorialist</a>.</p>
 <table cellspacing="0" cellpadding="0" border="1">
 <tbody>
-<tr>
+
 <td><a name="Setting"></a>
 <h2>Problem Setting</h2>
 <p>Some would say that razor-sharp analytical skills and creativity do not go hand-in-hand, but we disagree. We know there are plenty of programmers out there who can come up with fun problems for our contests.</p>
